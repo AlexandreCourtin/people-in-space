@@ -10,4 +10,4 @@ The script require ```requests``` :
 
 Execute this to see who's up there !
 
-```curl https://raw.githubusercontent.com/AlexandreCourtin/people-in-space/master/peopleInSpace.py | python3```
+```curl -sL https://raw.githubusercontent.com/AlexandreCourtin/people-in-space/master/peopleInSpace.py | python3```
