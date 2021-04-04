@@ -8,6 +8,8 @@ The script require ```requests``` :
 
 # Usage
 
-Execute this to see who's up there !
+Run this to see who's up there !
 
-```curl -sL https://raw.githubusercontent.com/AlexandreCourtin/people-in-space/master/peopleInSpace.py | python3```
+```
+curl -sL https://raw.githubusercontent.com/AlexandreCourtin/people-in-space/master/peopleInSpace.py | python3
+```
