@@ -2,9 +2,11 @@
 
 Install python3 and pip3
 
-The script require ```requests``` :
+The script require `requests` :
 
-```sudo pip3 install requests```
+```
+sudo pip3 install requests
+```
 
 # Usage
 
